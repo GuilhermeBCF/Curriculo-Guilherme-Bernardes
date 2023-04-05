@@ -2,3 +2,8 @@
 
 
 ---
+
+# Idiomas:
+
+- Inglês: Intermediário
+- Espanhol: Iniciante
