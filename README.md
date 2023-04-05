@@ -1,8 +1,6 @@
 # Guilherme Bernardes de Carvalho Filho
 
 
----
-
 # Dados Pessoais:
 
 - CPF: 123.456.789.00
@@ -13,4 +11,8 @@
 - ENDEREÇO: Avenida Mário José, 777 Marília-SP
 
 
----
+# Formação Acadêmica:
+
+- Ensino Médio: Colégio Criativo Marília
+- Ensino Superior: Análise e Desenvolvimento de Sistemas - Unimar (Cursando)
+
