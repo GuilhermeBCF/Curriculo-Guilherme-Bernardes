@@ -19,12 +19,12 @@
 
 # Experiência:
 
-- Loja do Puxador Marimetal
+- Loja do Puxador Marimetal - 2018 até Atualmente
 - (Técnico de E-Commerce)
-- 2018 até Atualmente
 
 
-# Idiomas:
+
+# Informações Adicionais:
 
 - Inglês: Intermediário
 - Espanhol: Iniciante
