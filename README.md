@@ -16,3 +16,10 @@
 - Ensino Médio: Colégio Criativo Marília
 - Ensino Superior: Análise e Desenvolvimento de Sistemas - Unimar (Cursando)
 
+
+# Experiência:
+
+- Loja do Puxador Marimetal
+- (Técnico de E-Commerce)
+- 2018 até Atualmente
+
