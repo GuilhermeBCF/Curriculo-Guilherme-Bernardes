@@ -1,6 +1,6 @@
 # Guilherme Bernardes de Carvalho Filho
 
-
+=======
 # Dados Pessoais:
 
 - CPF: 123.456.789.00
@@ -23,3 +23,8 @@
 - (Técnico de E-Commerce)
 - 2018 até Atualmente
 
+
+# Idiomas:
+
+- Inglês: Intermediário
+- Espanhol: Iniciante
