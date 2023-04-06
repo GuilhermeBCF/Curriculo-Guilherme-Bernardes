@@ -15,7 +15,7 @@
 
 - Ensino Médio: Colégio Criativo Marília
 - Ensino Superior: Análise e Desenvolvimento de Sistemas - Unimar (Cursando)
-
+- Psicologia (Não concluído)
 
 # Experiência:
 
